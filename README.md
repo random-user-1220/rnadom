@@ -1,2 +1,2 @@
-# rnadom
+# random
 nothing
